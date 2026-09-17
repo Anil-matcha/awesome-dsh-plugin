@@ -14,7 +14,7 @@ This list is intentionally broader than generative AI. Some projects use AI; oth
 - Open-source applications that can be self-hosted, extended, or studied.
 - Focused alternatives to familiar SaaS workflows.
 - Honest notes about limitations, dependencies, and maturity.
-- Upcoming build ideas selected from recurring paid workflows.
+- Upcoming build ideas selected from popular workflows in the source directory.
 - A lightweight JSON catalog that can be consumed by other tools.
 
 ## Featured projects
@@ -30,21 +30,70 @@ This list is intentionally broader than generative AI. Some projects use AI; oth
 | [AI B-roll](https://github.com/Anil-matcha/ai-broll) | Video Assets | Finds or generates visual ideas for individual script lines | InVideo, Pictory |
 | [Open-VidIQ](https://github.com/Anil-matcha/open-vidiq) | Creator & YouTube | Starting point for creator research and optimization | 1of10, Wholana, Vernigo |
 
-## Upcoming
+## Upcoming: popular workflows
 
-The projects below are build proposals based on strong, recurring workflows in the [Can I Vibecode It?](https://canivibecodeit.com) directory. They are not presented as finished replacements; each needs an implementation plan, a clear license, and independent verification before being called open source.
+This shortlist uses the public community vote count from [Can I Vibecode It?](https://canivibecodeit.com) and its [public stats page](https://canivibecodeit.com/stats). It includes every directory entry with at least five “I replaced this” votes in the snapshot checked on 2026-09-17.
 
-| Project idea | Category | Proposed scope | Comparable workflows |
-| --- | --- | --- | --- |
-| Open SEO / Open GEO | Marketing & SEO | Owned-site audits, rank snapshots, AI-search visibility, and content briefs | Ahrefs, Semrush, BrandGEO, AmICited |
-| Open YouTube Growth Radar | Creator & YouTube | Channel baselines, outlier videos, content patterns, and publishing assets | 1of10, Wholana, Vernigo, TranscriptAPI |
-| Social Content OS | Social & Creator | Briefs, platform variants, approvals, scheduling, and publishing | Buffer, Postiz, Typefully, FeedHive |
-| Podcast Repurposer | Audio & Podcasting | Recording to transcript, show notes, clips, and social assets | Castmagic, Swell AI, Headliner |
-| Presentation Studio | Design & Productivity | Structured decks, smart layouts, editing, and export | MagicSlides, Beautiful.ai, Pitch |
-| Thumbnail Studio | Design & Creator | Thumbnail concepts, variants, and export-ready compositions | ThumblifyAI |
-| Content Brief Studio | Marketing & SEO | Search research, topic coverage, briefs, and draft feedback | Frase, Surfer SEO, Rankwise |
-| Customer Knowledge Agent | Support & Knowledge | Documentation and website sources to grounded support answers | Chatbase |
-| Trend & Intent Radar | Research & Marketing | Public discussion signals to prioritized content opportunities | CueScout, Bazzly |
+Votes are a community-interest signal, not market share, revenue, quality, or feature parity. These are candidate targets for future open-source projects; they are not finished replacements in this repository.
+
+| App | Category | Community votes |
+| --- | --- | ---: |
+| [Granola](https://canivibecodeit.com/granola) | Meetings & notes | 258 |
+| [Wispr Flow](https://canivibecodeit.com/wispr-flow) | Voice & dictation | 159 |
+| [SuperX](https://canivibecodeit.com/superx) | Social media | 113 |
+| [Sleek](https://canivibecodeit.com/sleek) | Design | 78 |
+| [Linktree Pro](https://canivibecodeit.com/linktree) | Link in bio | 73 |
+| [One Place](https://canivibecodeit.com/one-place) | AI search | 54 |
+| [Post Bridge](https://canivibecodeit.com/post-bridge) | Social media | 46 |
+| [Claude](https://canivibecodeit.com/claude) | AI assistants | 38 |
+| [Screaming Frog SEO Spider](https://canivibecodeit.com/screaming-frog-seo-spider) | SEO & marketing | 36 |
+| [Postiz](https://canivibecodeit.com/postiz) | Social media | 34 |
+| [Senja / Testimonial.to](https://canivibecodeit.com/testimonial-to) | Testimonials | 33 |
+| [n8n Cloud](https://canivibecodeit.com/n8n-cloud) | Automation | 28 |
+| [Obsidian Sync](https://canivibecodeit.com/obsidian-sync) | Notes & knowledge | 19 |
+| [FeedHive](https://canivibecodeit.com/feedhive) | Social media | 19 |
+| [Typefully](https://canivibecodeit.com/typefully) | Social media | 18 |
+| [Tally](https://canivibecodeit.com/tally) | Forms | 18 |
+| [Invoice Ninja](https://canivibecodeit.com/invoice-ninja) | Finance & accounting | 16 |
+| [Shopify](https://canivibecodeit.com/shopify) | Commerce | 15 |
+| [Superwhisper](https://canivibecodeit.com/superwhisper) | Voice & dictation | 14 |
+| [iLovePDF Premium](https://canivibecodeit.com/ilovepdf-premium) | Documents | 14 |
+| [Gojiberry AI](https://canivibecodeit.com/gojiberry) | Sales & outreach | 14 |
+| [ChatGPT](https://canivibecodeit.com/chatgpt) | AI assistants | 14 |
+| [Yoast SEO Premium](https://canivibecodeit.com/yoast-seo-premium) | SEO & marketing | 13 |
+| [TeleMinute](https://canivibecodeit.com/teleminute) | No-code apps | 13 |
+| [Screen Studio](https://canivibecodeit.com/screen-studio) | Screen recording | 13 |
+| [Notion](https://canivibecodeit.com/notion) | Notes & knowledge | 13 |
+| [Plausible](https://canivibecodeit.com/plausible) | Analytics | 12 |
+| [DocuSign](https://canivibecodeit.com/docusign) | Documents | 12 |
+| [CapCut](https://canivibecodeit.com/capcut) | Audio & video | 11 |
+| [Cursor](https://canivibecodeit.com/cursor) | Developer tools | 10 |
+| [Vercel](https://canivibecodeit.com/vercel) | Hosting | 9 |
+| [Todoist](https://canivibecodeit.com/todoist) | Tasks | 9 |
+| [Revid AI](https://canivibecodeit.com/revid) | Audio & video | 9 |
+| [Webflow](https://canivibecodeit.com/webflow) | Website builders | 8 |
+| [Raindrop.io](https://canivibecodeit.com/raindrop-io) | Bookmarks | 8 |
+| [Canva](https://canivibecodeit.com/canva) | Design | 8 |
+| [YNAB](https://canivibecodeit.com/ynab) | Personal finance | 7 |
+| [Umami Cloud](https://canivibecodeit.com/umami-cloud) | Analytics | 7 |
+| [Simple Analytics](https://canivibecodeit.com/simple-analytics) | Analytics | 7 |
+| [Mailchimp](https://canivibecodeit.com/mailchimp) | Newsletters | 7 |
+| [GitKraken](https://canivibecodeit.com/gitkraken) | Developer tools | 7 |
+| [Buffer](https://canivibecodeit.com/buffer) | Social media | 7 |
+| [QuickBooks Online](https://canivibecodeit.com/quickbooks-online) | Finance & accounting | 6 |
+| [Jira](https://canivibecodeit.com/jira) | Project management | 6 |
+| [Cronitor](https://canivibecodeit.com/cronitor) | Monitoring | 6 |
+| [Chatbase](https://canivibecodeit.com/chatbase) | Customer support | 6 |
+| [Tella](https://canivibecodeit.com/tella) | Screen recording | 5 |
+| [Social Fetch](https://canivibecodeit.com/socialfetch) | Developer tools | 5 |
+| [Shots.so / Xnapper](https://canivibecodeit.com/shots) | Screenshots | 5 |
+| [PostHog](https://canivibecodeit.com/posthog) | Analytics | 5 |
+| [Photopea Premium](https://canivibecodeit.com/photopea-premium) | Design | 5 |
+| [Midjourney](https://canivibecodeit.com/midjourney) | AI image | 5 |
+| [LanguageTool](https://canivibecodeit.com/languagetool) | AI writing | 5 |
+| [Fathom Analytics](https://canivibecodeit.com/fathom-analytics) | Analytics | 5 |
+| [DataFast](https://canivibecodeit.com/datafast) | Analytics | 5 |
+| [Calendly](https://canivibecodeit.com/calendly) | Scheduling | 5 |
 
 ## Browse by category
 
