@@ -1,0 +1,57 @@
+{
+  "slug": "my-podcast",
+  "name": "My Podcast",
+  "status": "existing",
+  "category": "podcast-repurposing",
+  "repoUrl": "https://github.com/SamurAIGPT/my-podcast",
+  "license": "No license file found",
+  "openSourceStatus": "license-needed",
+  "maintainer": "SamurAIGPT",
+  "paidAlternatives": [
+    "ElevenLabs",
+    "Murf",
+    "PlayHT",
+    "Castmagic",
+    "Swell AI",
+    "Podcastle",
+    "Descript"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "elevenlabs",
+      "murf",
+      "playht",
+      "castmagic",
+      "swell-ai",
+      "podcastle",
+      "descript"
+    ]
+  },
+  "muapiFit": "medium",
+  "muapiMode": "required",
+  "muapiCapabilities": [
+    "text-to-speech",
+    "audio generation",
+    "episode content generation",
+    "image and video asset generation"
+  ],
+  "muapiDocsUrl": "https://muapi.ai/docs",
+  "honestScope": "A podcast workflow for generating voiceover and reusable episode assets, with room to add transcription, show notes, and clips.",
+  "gaps": [
+    "A repository license must be added before describing this project as open-source",
+    "Does not reproduce premium voice cloning, dubbing, or licensing systems",
+    "Transcription, cleanup, hosting, and RSS distribution require additional components"
+  ],
+  "externalDependencies": [
+    "Muapi API key",
+    "Audio processing tools",
+    "Object storage",
+    "Optional transcription runtime"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": "https://github.com/SamurAIGPT/my-podcast",
+  "lastVerified": "2026-09-17",
+  "notes": "License status intentionally flagged from the GitHub repository metadata."
+}

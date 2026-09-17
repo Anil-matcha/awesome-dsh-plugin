@@ -1,0 +1,46 @@
+{
+  "slug": "vibe-workflow",
+  "name": "Vibe Workflow",
+  "status": "existing",
+  "category": "creative-workflow",
+  "repoUrl": "https://github.com/SamurAIGPT/Vibe-Workflow",
+  "license": "MIT",
+  "openSourceStatus": "open-source",
+  "maintainer": "SamurAIGPT",
+  "paidAlternatives": [
+    "Krea",
+    "Wireflow"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "krea",
+      "wireflow"
+    ]
+  },
+  "muapiFit": "high",
+  "muapiMode": "required",
+  "muapiCapabilities": [
+    "image generation",
+    "video generation",
+    "audio generation",
+    "workflow execution",
+    "async generation and polling"
+  ],
+  "muapiDocsUrl": "https://muapi.ai/docs",
+  "honestScope": "A node-based creative workflow editor for composing, re-running, and inspecting media-generation pipelines.",
+  "gaps": [
+    "Not a real-time generation system",
+    "Node coverage depends on the current public Muapi model catalog",
+    "Team collaboration and asset management need application work"
+  ],
+  "externalDependencies": [
+    "Muapi API key",
+    "Postgres or equivalent production database",
+    "Object storage for workflow outputs"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": "https://github.com/SamurAIGPT/Vibe-Workflow",
+  "lastVerified": "2026-09-17"
+}

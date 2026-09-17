@@ -1,0 +1,146 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Awesome VibeCoded SaaS application entry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "slug",
+    "name",
+    "status",
+    "category",
+    "repoUrl",
+    "license",
+    "openSourceStatus",
+    "maintainer",
+    "paidAlternatives",
+    "sourceDirectory",
+    "muapiFit",
+    "muapiMode",
+    "muapiCapabilities",
+    "muapiDocsUrl",
+    "honestScope",
+    "gaps",
+    "externalDependencies",
+    "vibeCodedEvidence",
+    "vibeCodedEvidenceUrl",
+    "lastVerified"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "type": "string",
+      "enum": ["existing", "planned", "consolidate"]
+    },
+    "category": {
+      "type": "string",
+      "minLength": 1
+    },
+    "repoUrl": {
+      "type": ["string", "null"],
+      "format": "uri"
+    },
+    "license": {
+      "type": "string",
+      "minLength": 1
+    },
+    "openSourceStatus": {
+      "type": "string",
+      "enum": ["open-source", "license-needed", "planned"]
+    },
+    "maintainer": {
+      "type": "string",
+      "minLength": 1
+    },
+    "paidAlternatives": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "sourceDirectory": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "url", "slugs"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "slugs": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "muapiFit": {
+      "type": "string",
+      "enum": ["high", "medium", "low"]
+    },
+    "muapiMode": {
+      "type": "string",
+      "enum": ["required", "optional", "planned"]
+    },
+    "muapiCapabilities": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "muapiDocsUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "honestScope": {
+      "type": "string",
+      "minLength": 1
+    },
+    "gaps": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "externalDependencies": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "vibeCodedEvidence": {
+      "type": "string",
+      "enum": ["author-claimed", "maintainer-verified", "unverified"]
+    },
+    "vibeCodedEvidenceUrl": {
+      "type": ["string", "null"],
+      "format": "uri"
+    },
+    "lastVerified": {
+      "type": "string",
+      "format": "date"
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

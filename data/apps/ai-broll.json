@@ -1,0 +1,46 @@
+{
+  "slug": "ai-broll",
+  "name": "AI B-roll",
+  "status": "existing",
+  "category": "video-assets",
+  "repoUrl": "https://github.com/Anil-matcha/AI-B-roll",
+  "license": "MIT",
+  "openSourceStatus": "open-source",
+  "maintainer": "Anil-matcha",
+  "paidAlternatives": [
+    "InVideo",
+    "Pictory"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "invideo",
+      "pictory"
+    ]
+  },
+  "muapiFit": "high",
+  "muapiMode": "required",
+  "muapiCapabilities": [
+    "text-to-video",
+    "image-to-video",
+    "image generation",
+    "shot and prompt planning"
+  ],
+  "muapiDocsUrl": "https://muapi.ai/docs",
+  "honestScope": "A hybrid B-roll workflow that turns script lines into candidate generated clips and can be paired with user-owned or permitted stock media.",
+  "gaps": [
+    "Does not include a licensed stock-media catalog",
+    "Search, rights metadata, and asset delivery need application integrations",
+    "Generation cost and duration depend on the selected Muapi models"
+  ],
+  "externalDependencies": [
+    "Muapi API key",
+    "Permitted stock-media source when using stock footage",
+    "Notebook or web application runtime"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": "https://github.com/Anil-matcha/AI-B-roll",
+  "lastVerified": "2026-09-17",
+  "notes": "Potential future flagship demo for combining Muapi generation with an external media source."
+}

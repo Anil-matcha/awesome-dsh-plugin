@@ -1,0 +1,68 @@
+{
+  "slug": "open-seo",
+  "name": "Open SEO / Open GEO",
+  "status": "planned",
+  "category": "seo-and-ai-visibility",
+  "repoUrl": null,
+  "license": "TBD",
+  "openSourceStatus": "planned",
+  "maintainer": "Anil-matcha",
+  "paidAlternatives": [
+    "Ahrefs",
+    "Semrush",
+    "AccuRanker",
+    "Surfer SEO",
+    "Frase",
+    "Clearscope",
+    "BrandGEO",
+    "100 Questions",
+    "AmICited",
+    "LLM Pulse",
+    "Profound"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "ahrefs",
+      "semrush",
+      "accuranker",
+      "surfer-seo",
+      "frase",
+      "clearscope",
+      "brandgeo",
+      "100-questions",
+      "amicited",
+      "llm-pulse",
+      "profound"
+    ]
+  },
+  "muapiFit": "high",
+  "muapiMode": "planned",
+  "muapiCapabilities": [
+    "SERP research",
+    "keyword research",
+    "domain overview",
+    "owned-site audits",
+    "rank tracking",
+    "AI-search mentions and citations",
+    "YouTube SEO"
+  ],
+  "muapiDocsUrl": "https://muapi.ai/docs",
+  "honestScope": "An open-source SEO and AI-search visibility dashboard for owned sites, transparent rank snapshots, technical audits, and prioritized content fixes.",
+  "gaps": [
+    "No proprietary Ahrefs- or Semrush-scale crawl and backlink index",
+    "Needs tenant-aware history, crawl orchestration, reports, and Google Search Console OAuth",
+    "Must define compliant data-collection boundaries before launch"
+  ],
+  "externalDependencies": [
+    "Muapi API key",
+    "Site crawl and rendering runtime",
+    "Optional Google Search Console OAuth",
+    "Production database for snapshots"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17",
+  "notes": "Highest-priority new application. Existing Muapi SEO capabilities should be verified before adding server routes."
+}

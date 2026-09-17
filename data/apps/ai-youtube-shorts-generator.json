@@ -1,0 +1,46 @@
+{
+  "slug": "ai-youtube-shorts-generator",
+  "name": "AI YouTube Shorts Generator",
+  "status": "existing",
+  "category": "video-repurposing",
+  "repoUrl": "https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator",
+  "license": "MIT",
+  "openSourceStatus": "open-source",
+  "maintainer": "Anil-matcha",
+  "paidAlternatives": [
+    "OpusClip",
+    "Revid AI"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "opusclip",
+      "revid"
+    ]
+  },
+  "muapiFit": "medium",
+  "muapiMode": "optional",
+  "muapiCapabilities": [
+    "video generation",
+    "text generation",
+    "caption and script generation",
+    "media analysis"
+  ],
+  "muapiDocsUrl": "https://muapi.ai/docs",
+  "honestScope": "An open short-form video workflow that can be extended with Muapi generation while retaining local media-processing paths.",
+  "gaps": [
+    "Current implementation is not a full hosted SaaS editor",
+    "Muapi integration should be documented separately from local inference",
+    "Publishing and analytics require official platform integrations"
+  ],
+  "externalDependencies": [
+    "Local media-processing tools",
+    "Optional Muapi API key",
+    "ffmpeg and transcription dependencies"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": "https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator",
+  "lastVerified": "2026-09-17",
+  "notes": "Keep separate from ai-clipping-generator only while their technical scope remains materially different."
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "open-youtube-growth-radar",
+  "name": "Open YouTube Growth Radar",
+  "status": "planned",
+  "category": "youtube-growth",
+  "repoUrl": null,
+  "license": "TBD",
+  "openSourceStatus": "planned",
+  "maintainer": "Anil-matcha",
+  "paidAlternatives": [
+    "1of10",
+    "Wholana",
+    "Vernigo",
+    "TranscriptAPI",
+    "ThumblifyAI"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "1of10",
+      "wholana",
+      "vernigo",
+      "transcriptapi",
+      "thumblifyai"
+    ]
+  },
+  "muapiFit": "high",
+  "muapiMode": "planned",
+  "muapiCapabilities": [
+    "YouTube OAuth and analytics",
+    "video information",
+    "subtitles and comments",
+    "YouTube SEO",
+    "thumbnail and title generation",
+    "YouTube publishing"
+  ],
+  "muapiDocsUrl": "https://muapi.ai/docs",
+  "honestScope": "A creator dashboard that ranks videos against each channel's own baseline, explains patterns, and generates improved publishing assets.",
+  "gaps": [
+    "Needs persistent channel history and watchlist scheduling",
+    "Outlier scoring is application-side and cannot imply a universal market corpus",
+    "YouTube quota, OAuth, and publishing policy constraints must be visible"
+  ],
+  "externalDependencies": [
+    "Muapi API key",
+    "YouTube OAuth",
+    "YouTube API quota",
+    "Production database and scheduled jobs"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17",
+  "notes": "Second-priority new application. Extend Open-VidIQ rather than starting from an unrelated codebase."
+}

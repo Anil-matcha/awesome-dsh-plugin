@@ -1,0 +1,56 @@
+{
+  "slug": "open-pomelli",
+  "name": "Open-Pomelli",
+  "status": "existing",
+  "category": "campaign-studio",
+  "repoUrl": "https://github.com/SamurAIGPT/Open-Pomelli",
+  "license": "MIT",
+  "openSourceStatus": "open-source",
+  "maintainer": "SamurAIGPT",
+  "paidAlternatives": [
+    "Canva",
+    "Adobe Express",
+    "Flair AI",
+    "Pebblely",
+    "PhotoRoom",
+    "Pixelcut"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "canva",
+      "adobe-express",
+      "flair-ai",
+      "pebblely",
+      "photoroom",
+      "pixelcut"
+    ]
+  },
+  "muapiFit": "high",
+  "muapiMode": "required",
+  "muapiCapabilities": [
+    "file upload",
+    "text and vision analysis",
+    "image generation and editing",
+    "image-to-video",
+    "text-to-video",
+    "async generation and polling"
+  ],
+  "muapiDocsUrl": "https://muapi.ai/docs",
+  "honestScope": "A brand-aware campaign studio that extracts a brand direction and generates coordinated image, video, and marketing assets.",
+  "gaps": [
+    "Does not reproduce a large template or stock-media library",
+    "Brand extraction quality depends on the supplied website and assets",
+    "Requires a Muapi key for AI calls"
+  ],
+  "externalDependencies": [
+    "Muapi API key",
+    "Browser automation for website analysis",
+    "Object storage for uploaded brand assets"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": "https://github.com/SamurAIGPT/Open-Pomelli",
+  "lastVerified": "2026-09-17",
+  "notes": "Flagship campaign-studio example; prefer improving this project over creating another generic design wrapper."
+}

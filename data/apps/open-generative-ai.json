@@ -1,0 +1,61 @@
+{
+  "slug": "open-generative-ai",
+  "name": "Open Generative AI",
+  "status": "existing",
+  "category": "generative-media",
+  "repoUrl": "https://github.com/Anil-matcha/Open-Generative-AI",
+  "license": "MIT",
+  "openSourceStatus": "open-source",
+  "maintainer": "Anil-matcha",
+  "paidAlternatives": [
+    "Midjourney",
+    "OpenArt",
+    "DreamStudio",
+    "Adobe Firefly",
+    "Kling AI",
+    "Runway",
+    "Pika",
+    "Luma Dream Machine",
+    "Ideogram"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "midjourney",
+      "openart",
+      "dreamstudio",
+      "adobe-firefly",
+      "kling-ai",
+      "runway",
+      "pika",
+      "luma-dream-machine",
+      "ideogram"
+    ]
+  },
+  "muapiFit": "high",
+  "muapiMode": "optional",
+  "muapiCapabilities": [
+    "image generation",
+    "text-to-video",
+    "image-to-video",
+    "video editing",
+    "async generation and polling"
+  ],
+  "muapiDocsUrl": "https://muapi.ai/docs",
+  "honestScope": "A self-hostable creative studio that gives users a unified interface for many image and video generation workflows.",
+  "gaps": [
+    "Not a replacement for proprietary model training or platform distribution",
+    "Local and hosted modes have different model coverage",
+    "Requires a Muapi key for hosted generation"
+  ],
+  "externalDependencies": [
+    "Muapi API key for hosted mode",
+    "Optional local inference dependencies",
+    "Object storage for production deployments"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": "https://github.com/Anil-matcha/Open-Generative-AI",
+  "lastVerified": "2026-09-17",
+  "notes": "Canonical general media application for this catalog; avoid duplicating it with another generic model console."
+}

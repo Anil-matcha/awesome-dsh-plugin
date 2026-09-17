@@ -1,0 +1,53 @@
+{
+  "slug": "ai-faceless-video-generator",
+  "name": "AI Faceless Video Generator",
+  "status": "existing",
+  "category": "avatar-video",
+  "repoUrl": "https://github.com/SamurAIGPT/AI-Faceless-Video-Generator",
+  "license": "MIT",
+  "openSourceStatus": "open-source",
+  "maintainer": "SamurAIGPT",
+  "paidAlternatives": [
+    "Creatify",
+    "HeyGen",
+    "Synthesia",
+    "Vidnoz",
+    "Fliki",
+    "SocialFaktory"
+  ],
+  "sourceDirectory": {
+    "name": "Can I Vibecode It?",
+    "url": "https://canivibecodeit.com",
+    "slugs": [
+      "socialfaktory",
+      "heygen",
+      "vidnoz",
+      "fliki"
+    ]
+  },
+  "muapiFit": "high",
+  "muapiMode": "required",
+  "muapiCapabilities": [
+    "script generation",
+    "voiceover generation",
+    "image and video generation",
+    "lipsync or avatar media",
+    "async generation and polling"
+  ],
+  "muapiDocsUrl": "https://muapi.ai/docs",
+  "honestScope": "A script-to-faceless-video workflow combining generated narration, visuals, and assembled short-form output.",
+  "gaps": [
+    "Does not reproduce a licensed avatar marketplace",
+    "Synthetic-media consent and disclosure are required for real-person likenesses",
+    "Rendering, hosting, and distribution are application responsibilities"
+  ],
+  "externalDependencies": [
+    "Muapi API key",
+    "ffmpeg",
+    "Object storage",
+    "User-supplied or properly licensed media"
+  ],
+  "vibeCodedEvidence": "unverified",
+  "vibeCodedEvidenceUrl": "https://github.com/SamurAIGPT/AI-Faceless-Video-Generator",
+  "lastVerified": "2026-09-17"
+}
