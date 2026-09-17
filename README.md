@@ -28,16 +28,16 @@ Browse the [Open-Source Alternatives directory](open-source/alternatives/README.
 
 ## Featured projects
 
-| Project | Category | What it does | Comparable workflows |
-| --- | --- | --- | --- |
-| [Open Generative AI](https://github.com/Anil-matcha/open-generative-ai) | AI & Creative | Unified image and video generation studio | Midjourney, OpenArt, Runway, Kling |
-| [Open-Pomelli](https://github.com/Anil-matcha/open-pomelli) | Marketing & Creative | Turns a website into brand direction and campaign assets | Canva, Adobe Express, Flair AI |
-| [Vibe Workflow](https://github.com/Anil-matcha/vibe-workflow) | Creative Workflows | Node-based media workflow builder | Krea, Wireflow |
-| [AI Clipping Generator](https://github.com/Anil-matcha/ai-clipping-generator) | Video & Media | Turns long-form media into short-form clips | OpusClip, Revid AI, Descript |
-| [AI YouTube Shorts Generator](https://github.com/Anil-matcha/ai-youtube-shorts-generator) | Video & Media | Creates short-form videos from long-form content | OpusClip, Revid AI |
-| [AI Faceless Video Generator](https://github.com/Anil-matcha/ai-faceless-video-generator) | Video & Media | Creates narrated faceless videos from a brief | Creatify, HeyGen, Synthesia |
-| [AI B-roll](https://github.com/Anil-matcha/AI-B-roll) | Video Assets | Finds or generates visual ideas for individual script lines | InVideo, Pictory |
-| [Open-VidIQ](https://github.com/Anil-matcha/open-vidiq) | Creator & YouTube | Starting point for creator research and optimization | 1of10, Wholana, Vernigo |
+| Project | Category | What it does | Comparable workflows | Muapi guide |
+| --- | --- | --- | --- | --- |
+| [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | AI & Creative | Unified image and video generation studio | Midjourney, OpenArt, Runway, Kling | [Midjourney alternative](https://muapi.ai/open-source/alternative/midjourney) |
+| [Open-Pomelli](https://github.com/SamurAIGPT/Open-Pomelli) | Marketing & Creative | Turns a website into brand direction and campaign assets | Canva, Adobe Express, Flair AI | [Alternatives directory](https://muapi.ai/open-source/alternative) |
+| [Vibe Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) | Creative Workflows | Node-based media workflow builder | Krea, Wireflow | [Krea alternative](https://muapi.ai/open-source/alternative/krea) |
+| [AI Clipping Generator](https://github.com/SamurAIGPT/ai-clipping-generator) | Video & Media | Turns long-form media into short-form clips | OpusClip, Revid AI, Descript | [Alternatives directory](https://muapi.ai/open-source/alternative) |
+| [AI YouTube Shorts Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | Video & Media | Creates short-form videos from long-form content | OpusClip, Revid AI | [Alternatives directory](https://muapi.ai/open-source/alternative) |
+| [AI Faceless Video Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) | Video & Media | Creates narrated faceless videos from a brief | Creatify, HeyGen, Synthesia | [Alternatives directory](https://muapi.ai/open-source/alternative) |
+| [AI B-roll](https://github.com/Anil-matcha/AI-B-roll) | Video Assets | Finds or generates visual ideas for individual script lines | InVideo, Pictory | [Alternatives directory](https://muapi.ai/open-source/alternative) |
+| [Open-VidIQ](https://github.com/SamurAIGPT/Open-VidIQ) | Creator & YouTube | Starting point for creator research and optimization | 1of10, Wholana, Vernigo | [Alternatives directory](https://muapi.ai/open-source/alternative) |
 
 ## Upcoming: popular workflows
 
