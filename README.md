@@ -28,16 +28,45 @@ Browse the [Open-Source Alternatives directory](open-source/alternatives/README.
 
 ## Featured projects
 
-| Project | Category | What it does | Comparable workflows | Muapi guide |
-| --- | --- | --- | --- | --- |
-| [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | AI & Creative | Unified image and video generation studio | Midjourney, OpenArt, Runway, Kling | [Midjourney alternative](https://muapi.ai/open-source/alternative/midjourney) |
-| [Open-Pomelli](https://github.com/SamurAIGPT/Open-Pomelli) | Marketing & Creative | Turns a website into brand direction and campaign assets | Canva, Adobe Express, Flair AI | [Alternatives directory](https://muapi.ai/open-source/alternative) |
-| [Vibe Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) | Creative Workflows | Node-based media workflow builder | Krea, Wireflow | [Krea alternative](https://muapi.ai/open-source/alternative/krea) |
-| [AI Clipping Generator](https://github.com/SamurAIGPT/ai-clipping-generator) | Video & Media | Turns long-form media into short-form clips | OpusClip, Revid AI, Descript | [Alternatives directory](https://muapi.ai/open-source/alternative) |
-| [AI YouTube Shorts Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | Video & Media | Creates short-form videos from long-form content | OpusClip, Revid AI | [Alternatives directory](https://muapi.ai/open-source/alternative) |
-| [AI Faceless Video Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) | Video & Media | Creates narrated faceless videos from a brief | Creatify, HeyGen, Synthesia | [Alternatives directory](https://muapi.ai/open-source/alternative) |
-| [AI B-roll](https://github.com/Anil-matcha/AI-B-roll) | Video Assets | Finds or generates visual ideas for individual script lines | InVideo, Pictory | [Alternatives directory](https://muapi.ai/open-source/alternative) |
-| [Open-VidIQ](https://github.com/SamurAIGPT/Open-VidIQ) | Creator & YouTube | Starting point for creator research and optimization | 1of10, Wholana, Vernigo | [Alternatives directory](https://muapi.ai/open-source/alternative) |
+| Project | Category | What it does |
+| --- | --- | --- |
+| [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | AI & Creative | Unified image and video generation studio |
+| [Open-Pomelli](https://github.com/SamurAIGPT/Open-Pomelli) | Marketing & Creative | Turns a website into brand direction and campaign assets |
+| [Vibe Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) | Creative Workflows | Node-based media workflow builder |
+| [AI Clipping Generator](https://github.com/SamurAIGPT/ai-clipping-generator) | Video & Media | Turns long-form media into short-form clips |
+| [AI YouTube Shorts Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | Video & Media | Creates short-form videos from long-form content |
+| [AI Faceless Video Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) | Video & Media | Creates narrated faceless videos from a brief |
+| [AI B-roll](https://github.com/Anil-matcha/AI-B-roll) | Video Assets | Finds or generates visual ideas for individual script lines |
+| [Open-VidIQ](https://github.com/SamurAIGPT/Open-VidIQ) | Creator & YouTube | Starting point for creator research and optimization |
+
+## Alternatives by workflow
+
+Each comparable product has its own Muapi link below. A project appears in multiple rows when it covers more than one workflow, so the relationship stays explicit.
+
+| Comparable workflow | Open-source project | Muapi alternative |
+| --- | --- | --- |
+| Midjourney | [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | [Midjourney alternative](https://muapi.ai/open-source/alternative/midjourney) |
+| OpenArt | [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | [OpenArt alternative](https://muapi.ai/open-source/alternative#openart) |
+| Runway | [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | [Runway alternative](https://muapi.ai/open-source/alternative#runway) |
+| Kling AI | [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | [Kling alternative](https://muapi.ai/open-source/alternative#kling-ai) |
+| Canva | [Open-Pomelli](https://github.com/SamurAIGPT/Open-Pomelli) | [Canva alternative](https://muapi.ai/open-source/alternative#canva) |
+| Adobe Express | [Open-Pomelli](https://github.com/SamurAIGPT/Open-Pomelli) | [Adobe Express alternative](https://muapi.ai/open-source/alternative#adobe-express) |
+| Flair AI | [Open-Pomelli](https://github.com/SamurAIGPT/Open-Pomelli) | [Flair AI alternative](https://muapi.ai/open-source/alternative#flair-ai) |
+| Krea | [Vibe Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) | [Krea alternative](https://muapi.ai/open-source/alternative/krea) |
+| Wireflow | [Vibe Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) | [Wireflow alternative](https://muapi.ai/open-source/alternative#wireflow) |
+| OpusClip | [AI Clipping Generator](https://github.com/SamurAIGPT/ai-clipping-generator) | [OpusClip alternative](https://muapi.ai/open-source/alternative#opusclip) |
+| Revid AI | [AI Clipping Generator](https://github.com/SamurAIGPT/ai-clipping-generator) | [Revid AI alternative](https://muapi.ai/open-source/alternative#revid) |
+| Descript | [AI Clipping Generator](https://github.com/SamurAIGPT/ai-clipping-generator) | [Descript alternative](https://muapi.ai/open-source/alternative#descript) |
+| OpusClip | [AI YouTube Shorts Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | [OpusClip alternative](https://muapi.ai/open-source/alternative#opusclip) |
+| Revid AI | [AI YouTube Shorts Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | [Revid AI alternative](https://muapi.ai/open-source/alternative#revid) |
+| Creatify | [AI Faceless Video Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) | [Creatify alternative](https://muapi.ai/open-source/alternative#creatify) |
+| HeyGen | [AI Faceless Video Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) | [HeyGen alternative](https://muapi.ai/open-source/alternative#heygen) |
+| Synthesia | [AI Faceless Video Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) | [Synthesia alternative](https://muapi.ai/open-source/alternative#synthesia) |
+| InVideo | [AI B-roll](https://github.com/Anil-matcha/AI-B-roll) | [InVideo alternative](https://muapi.ai/open-source/alternative#invideo) |
+| Pictory | [AI B-roll](https://github.com/Anil-matcha/AI-B-roll) | [Pictory alternative](https://muapi.ai/open-source/alternative#pictory) |
+| 1of10 | [Open-VidIQ](https://github.com/SamurAIGPT/Open-VidIQ) | [1of10 alternative](https://muapi.ai/open-source/alternative#1of10) |
+| Wholana | [Open-VidIQ](https://github.com/SamurAIGPT/Open-VidIQ) | [Wholana alternative](https://muapi.ai/open-source/alternative#wholana) |
+| Vernigo | [Open-VidIQ](https://github.com/SamurAIGPT/Open-VidIQ) | [Vernigo alternative](https://muapi.ai/open-source/alternative#vernigo) |
 
 ## Upcoming: popular workflows
 
