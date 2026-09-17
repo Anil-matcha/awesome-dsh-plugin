@@ -2,7 +2,7 @@
   "slug": "open-generative-ai",
   "name": "Open Generative AI",
   "status": "existing",
-  "category": "generative-media",
+  "category": "AI & Creative",
   "repoUrl": "https://github.com/Anil-matcha/Open-Generative-AI",
   "license": "MIT",
   "openSourceStatus": "open-source",
@@ -33,29 +33,23 @@
       "ideogram"
     ]
   },
-  "muapiFit": "high",
-  "muapiMode": "optional",
-  "muapiCapabilities": [
-    "image generation",
-    "text-to-video",
-    "image-to-video",
-    "video editing",
-    "async generation and polling"
+  "description": "A self-hostable creative studio that gives users a unified interface for common image and video generation workflows.",
+  "features": [
+    "Prompt-driven image and video workflows",
+    "A single workspace for multiple creative tasks",
+    "A foundation for self-hosted experimentation"
   ],
-  "muapiDocsUrl": "https://muapi.ai/docs",
-  "honestScope": "A self-hostable creative studio that gives users a unified interface for many image and video generation workflows.",
-  "gaps": [
-    "Not a replacement for proprietary model training or platform distribution",
-    "Local and hosted modes have different model coverage",
-    "Requires a Muapi key for hosted generation"
+  "limitations": [
+    "Proprietary platform features and distribution networks are not included",
+    "Local and hosted modes can have different model coverage",
+    "Production deployments need their own storage, queues, and monitoring"
   ],
-  "externalDependencies": [
-    "Muapi API key for hosted mode",
+  "dependencies": [
+    "Compatible image and video generation services",
     "Optional local inference dependencies",
     "Object storage for production deployments"
   ],
   "vibeCodedEvidence": "unverified",
-  "vibeCodedEvidenceUrl": "https://github.com/Anil-matcha/Open-Generative-AI",
-  "lastVerified": "2026-09-17",
-  "notes": "Canonical general media application for this catalog; avoid duplicating it with another generic model console."
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
 }

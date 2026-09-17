@@ -2,7 +2,7 @@
   "slug": "my-podcast",
   "name": "My Podcast",
   "status": "existing",
-  "category": "podcast-repurposing",
+  "category": "Audio & Podcasting",
   "repoUrl": "https://github.com/SamurAIGPT/my-podcast",
   "license": "No license file found",
   "openSourceStatus": "license-needed",
@@ -29,29 +29,24 @@
       "descript"
     ]
   },
-  "muapiFit": "medium",
-  "muapiMode": "required",
-  "muapiCapabilities": [
-    "text-to-speech",
-    "audio generation",
-    "episode content generation",
-    "image and video asset generation"
+  "description": "A podcast workflow for generating voiceover and reusable episode assets, with room for transcription and show notes.",
+  "features": [
+    "Voiceover-oriented episode workflows",
+    "Reusable assets for podcast publishing",
+    "A foundation for transcription and show-note generation"
   ],
-  "muapiDocsUrl": "https://muapi.ai/docs",
-  "honestScope": "A podcast workflow for generating voiceover and reusable episode assets, with room to add transcription, show notes, and clips.",
-  "gaps": [
-    "A repository license must be added before describing this project as open-source",
-    "Does not reproduce premium voice cloning, dubbing, or licensing systems",
-    "Transcription, cleanup, hosting, and RSS distribution require additional components"
+  "limitations": [
+    "A repository license must be added before calling this project open source",
+    "It does not reproduce premium voice cloning, dubbing, or licensing systems",
+    "Transcription, cleanup, hosting, and RSS distribution need additional components"
   ],
-  "externalDependencies": [
-    "Muapi API key",
+  "dependencies": [
     "Audio processing tools",
     "Object storage",
-    "Optional transcription runtime"
+    "Optional transcription runtime",
+    "Compatible speech generation services"
   ],
   "vibeCodedEvidence": "unverified",
-  "vibeCodedEvidenceUrl": "https://github.com/SamurAIGPT/my-podcast",
-  "lastVerified": "2026-09-17",
-  "notes": "License status intentionally flagged from the GitHub repository metadata."
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
 }

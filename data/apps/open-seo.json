@@ -2,7 +2,7 @@
   "slug": "open-seo",
   "name": "Open SEO / Open GEO",
   "status": "planned",
-  "category": "seo-and-ai-visibility",
+  "category": "Marketing & SEO",
   "repoUrl": null,
   "license": "TBD",
   "openSourceStatus": "planned",
@@ -37,32 +37,24 @@
       "profound"
     ]
   },
-  "muapiFit": "high",
-  "muapiMode": "planned",
-  "muapiCapabilities": [
-    "SERP research",
-    "keyword research",
-    "domain overview",
-    "owned-site audits",
-    "rank tracking",
-    "AI-search mentions and citations",
-    "YouTube SEO"
+  "description": "A proposed SEO and AI-search visibility dashboard for owned sites, transparent rank snapshots, technical audits, and prioritized content fixes.",
+  "features": [
+    "Owned-site technical audits",
+    "Transparent rank and visibility snapshots",
+    "Content briefs and prioritized fixes"
   ],
-  "muapiDocsUrl": "https://muapi.ai/docs",
-  "honestScope": "An open-source SEO and AI-search visibility dashboard for owned sites, transparent rank snapshots, technical audits, and prioritized content fixes.",
-  "gaps": [
-    "No proprietary Ahrefs- or Semrush-scale crawl and backlink index",
-    "Needs tenant-aware history, crawl orchestration, reports, and Google Search Console OAuth",
-    "Must define compliant data-collection boundaries before launch"
+  "limitations": [
+    "It would not have a proprietary crawl or backlink index at launch",
+    "Tenant-aware history, crawl orchestration, and Search Console OAuth are required",
+    "Data-collection boundaries must be defined before implementation"
   ],
-  "externalDependencies": [
-    "Muapi API key",
+  "dependencies": [
     "Site crawl and rendering runtime",
     "Optional Google Search Console OAuth",
-    "Production database for snapshots"
+    "Production database for snapshots",
+    "Compatible language services for content analysis"
   ],
   "vibeCodedEvidence": "unverified",
   "vibeCodedEvidenceUrl": null,
-  "lastVerified": "2026-09-17",
-  "notes": "Highest-priority new application. Existing Muapi SEO capabilities should be verified before adding server routes."
+  "lastVerified": "2026-09-17"
 }

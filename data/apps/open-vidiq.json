@@ -1,8 +1,8 @@
 {
   "slug": "open-vidiq",
   "name": "Open-VidIQ",
-  "status": "consolidate",
-  "category": "youtube-growth",
+  "status": "existing",
+  "category": "Creator & YouTube",
   "repoUrl": "https://github.com/SamurAIGPT/Open-VidIQ",
   "license": "MIT",
   "openSourceStatus": "open-source",
@@ -25,30 +25,24 @@
       "transcriptapi"
     ]
   },
-  "muapiFit": "high",
-  "muapiMode": "required",
-  "muapiCapabilities": [
-    "YouTube analytics",
-    "YouTube video information",
-    "YouTube subtitles and comments",
-    "SEO and AI-visibility analysis",
-    "title, thumbnail, and script generation"
+  "description": "A starting point for a creator research and optimization dashboard that can rank videos against a channel's own baseline.",
+  "features": [
+    "Channel and video research",
+    "Baseline-oriented performance comparisons",
+    "A foundation for content and publishing insights"
   ],
-  "muapiDocsUrl": "https://muapi.ai/docs",
-  "honestScope": "A starting point for a creator research and optimization dashboard that can rank videos against a channel's own baseline.",
-  "gaps": [
-    "Needs a complete channel dashboard and persistent history",
+  "limitations": [
+    "It needs a complete channel dashboard and persistent history",
     "Outlier scoring and watchlist orchestration are application-side",
-    "Does not contain a continuously refreshed multi-million-video corpus"
+    "It does not contain a continuously refreshed multi-million-video corpus"
   ],
-  "externalDependencies": [
-    "Muapi API key",
+  "dependencies": [
     "YouTube OAuth",
     "YouTube API quota",
-    "Production database for snapshots"
+    "Production database for snapshots",
+    "Compatible language services for research features"
   ],
   "vibeCodedEvidence": "unverified",
-  "vibeCodedEvidenceUrl": "https://github.com/SamurAIGPT/Open-VidIQ",
-  "lastVerified": "2026-09-17",
-  "notes": "Seed project for the planned Open YouTube Growth Radar; do not claim full VidIQ or TubeBuddy parity."
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
 }

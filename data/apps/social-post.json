@@ -2,7 +2,7 @@
   "slug": "social-post",
   "name": "social-post",
   "status": "existing",
-  "category": "social-content",
+  "category": "Social & Creator",
   "repoUrl": "https://github.com/SamurAIGPT/social-post",
   "license": "No license file found",
   "openSourceStatus": "license-needed",
@@ -27,29 +27,24 @@
       "predis-ai"
     ]
   },
-  "muapiFit": "medium",
-  "muapiMode": "required",
-  "muapiCapabilities": [
-    "social copy generation",
-    "image and video asset generation",
-    "platform-specific content variants",
-    "async generation and polling"
+  "description": "A social-content generation and publishing workflow for creating platform-specific drafts and planning distribution.",
+  "features": [
+    "Platform-specific content variants",
+    "Draft creation and publishing workflow",
+    "A foundation for scheduling and content review"
   ],
-  "muapiDocsUrl": "https://muapi.ai/docs",
-  "honestScope": "A social-content generation and publishing workflow that should be consolidated with the existing scheduler before expanding scope.",
-  "gaps": [
-    "A repository license must be added before describing this project as open-source",
+  "limitations": [
+    "A repository license must be added before calling this project open source",
     "Official platform OAuth, queues, analytics, and policy compliance remain necessary",
-    "Does not reproduce a multi-network social inbox"
+    "It does not reproduce a multi-network social inbox"
   ],
-  "externalDependencies": [
-    "Muapi API key",
+  "dependencies": [
     "Official platform OAuth",
     "Platform API quotas",
-    "Production job queue"
+    "Production job queue",
+    "Compatible content generation services"
   ],
   "vibeCodedEvidence": "unverified",
-  "vibeCodedEvidenceUrl": "https://github.com/SamurAIGPT/social-post",
-  "lastVerified": "2026-09-17",
-  "notes": "License status intentionally flagged from the GitHub repository metadata."
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
 }

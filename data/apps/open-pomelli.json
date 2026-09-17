@@ -2,7 +2,7 @@
   "slug": "open-pomelli",
   "name": "Open-Pomelli",
   "status": "existing",
-  "category": "campaign-studio",
+  "category": "Marketing & Creative",
   "repoUrl": "https://github.com/SamurAIGPT/Open-Pomelli",
   "license": "MIT",
   "openSourceStatus": "open-source",
@@ -27,30 +27,23 @@
       "pixelcut"
     ]
   },
-  "muapiFit": "high",
-  "muapiMode": "required",
-  "muapiCapabilities": [
-    "file upload",
-    "text and vision analysis",
-    "image generation and editing",
-    "image-to-video",
-    "text-to-video",
-    "async generation and polling"
+  "description": "A brand-aware campaign studio that extracts a brand direction and generates coordinated image, video, and marketing assets.",
+  "features": [
+    "Website and asset-based brand direction",
+    "Coordinated campaign asset generation",
+    "A starting point for repeatable creative briefs"
   ],
-  "muapiDocsUrl": "https://muapi.ai/docs",
-  "honestScope": "A brand-aware campaign studio that extracts a brand direction and generates coordinated image, video, and marketing assets.",
-  "gaps": [
-    "Does not reproduce a large template or stock-media library",
+  "limitations": [
+    "It does not include a large template or stock-media library",
     "Brand extraction quality depends on the supplied website and assets",
-    "Requires a Muapi key for AI calls"
+    "Production integrations and asset governance need additional work"
   ],
-  "externalDependencies": [
-    "Muapi API key",
+  "dependencies": [
     "Browser automation for website analysis",
-    "Object storage for uploaded brand assets"
+    "Object storage for uploaded brand assets",
+    "Compatible image and video generation services"
   ],
   "vibeCodedEvidence": "unverified",
-  "vibeCodedEvidenceUrl": "https://github.com/SamurAIGPT/Open-Pomelli",
-  "lastVerified": "2026-09-17",
-  "notes": "Flagship campaign-studio example; prefer improving this project over creating another generic design wrapper."
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
 }

@@ -2,7 +2,7 @@
   "slug": "ai-youtube-shorts-generator",
   "name": "AI YouTube Shorts Generator",
   "status": "existing",
-  "category": "video-repurposing",
+  "category": "Video & Media",
   "repoUrl": "https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator",
   "license": "MIT",
   "openSourceStatus": "open-source",
@@ -19,28 +19,23 @@
       "revid"
     ]
   },
-  "muapiFit": "medium",
-  "muapiMode": "optional",
-  "muapiCapabilities": [
-    "video generation",
-    "text generation",
-    "caption and script generation",
-    "media analysis"
+  "description": "An open short-form video workflow that combines local media processing with optional AI-assisted generation.",
+  "features": [
+    "Short-form video assembly",
+    "Local processing paths for supplied media",
+    "A foundation for captions, narration, and publishing"
   ],
-  "muapiDocsUrl": "https://muapi.ai/docs",
-  "honestScope": "An open short-form video workflow that can be extended with Muapi generation while retaining local media-processing paths.",
-  "gaps": [
-    "Current implementation is not a full hosted SaaS editor",
-    "Muapi integration should be documented separately from local inference",
+  "limitations": [
+    "It is not a full hosted SaaS editor",
+    "Output quality depends on local tools and selected services",
     "Publishing and analytics require official platform integrations"
   ],
-  "externalDependencies": [
+  "dependencies": [
     "Local media-processing tools",
-    "Optional Muapi API key",
-    "ffmpeg and transcription dependencies"
+    "ffmpeg and transcription dependencies",
+    "Optional compatible image, video, or speech services"
   ],
   "vibeCodedEvidence": "unverified",
-  "vibeCodedEvidenceUrl": "https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator",
-  "lastVerified": "2026-09-17",
-  "notes": "Keep separate from ai-clipping-generator only while their technical scope remains materially different."
+  "vibeCodedEvidenceUrl": null,
+  "lastVerified": "2026-09-17"
 }

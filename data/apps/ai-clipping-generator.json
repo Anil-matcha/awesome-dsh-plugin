@@ -2,7 +2,7 @@
   "slug": "ai-clipping-generator",
   "name": "AI Clipping Generator",
   "status": "existing",
-  "category": "video-repurposing",
+  "category": "Video & Media",
   "repoUrl": "https://github.com/SamurAIGPT/ai-clipping-generator",
   "license": "MIT",
   "openSourceStatus": "open-source",
@@ -27,29 +27,24 @@
       "veed"
     ]
   },
-  "muapiFit": "high",
-  "muapiMode": "required",
-  "muapiCapabilities": [
-    "video download",
-    "video analysis",
-    "short-form script generation",
-    "media generation",
-    "async webhooks"
+  "description": "A focused workflow for turning long-form or supplied media into short-form clips with AI-assisted selection and generation.",
+  "features": [
+    "Long-form media as the starting point",
+    "Short-form clip selection and generation",
+    "A base for adding captions and publishing workflows"
   ],
-  "muapiDocsUrl": "https://muapi.ai/docs",
-  "honestScope": "A focused workflow for turning long-form or supplied media into short-form clips with AI-assisted selection and generation.",
-  "gaps": [
-    "Does not reproduce a mature transcript-based nonlinear editor",
-    "Media hosting, rendering queues, and platform distribution need ongoing operations",
+  "limitations": [
+    "It is not a mature transcript-based nonlinear editor",
+    "Media hosting, rendering queues, and distribution need ongoing operations",
     "Clip quality depends on source media and model configuration"
   ],
-  "externalDependencies": [
-    "Muapi API key",
+  "dependencies": [
     "ffmpeg",
     "Object storage",
-    "Optional official publishing integrations"
+    "Optional official publishing integrations",
+    "Compatible media generation services"
   ],
   "vibeCodedEvidence": "unverified",
-  "vibeCodedEvidenceUrl": "https://github.com/SamurAIGPT/ai-clipping-generator",
+  "vibeCodedEvidenceUrl": null,
   "lastVerified": "2026-09-17"
 }

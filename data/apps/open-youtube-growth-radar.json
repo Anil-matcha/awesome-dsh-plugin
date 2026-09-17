@@ -2,7 +2,7 @@
   "slug": "open-youtube-growth-radar",
   "name": "Open YouTube Growth Radar",
   "status": "planned",
-  "category": "youtube-growth",
+  "category": "Creator & YouTube",
   "repoUrl": null,
   "license": "TBD",
   "openSourceStatus": "planned",
@@ -25,31 +25,24 @@
       "thumblifyai"
     ]
   },
-  "muapiFit": "high",
-  "muapiMode": "planned",
-  "muapiCapabilities": [
-    "YouTube OAuth and analytics",
-    "video information",
-    "subtitles and comments",
-    "YouTube SEO",
-    "thumbnail and title generation",
-    "YouTube publishing"
+  "description": "A proposed creator dashboard that compares videos with each channel's own baseline, explains patterns, and generates publishing assets.",
+  "features": [
+    "Channel baselines and historical comparisons",
+    "Outlier video and content-pattern analysis",
+    "Support for titles, thumbnails, and publishing briefs"
   ],
-  "muapiDocsUrl": "https://muapi.ai/docs",
-  "honestScope": "A creator dashboard that ranks videos against each channel's own baseline, explains patterns, and generates improved publishing assets.",
-  "gaps": [
-    "Needs persistent channel history and watchlist scheduling",
-    "Outlier scoring is application-side and cannot imply a universal market corpus",
+  "limitations": [
+    "It would need persistent channel history and scheduled watchlists",
+    "Outlier scoring cannot imply a universal market corpus",
     "YouTube quota, OAuth, and publishing policy constraints must be visible"
   ],
-  "externalDependencies": [
-    "Muapi API key",
+  "dependencies": [
     "YouTube OAuth",
     "YouTube API quota",
-    "Production database and scheduled jobs"
+    "Production database and scheduled jobs",
+    "Compatible language and transcription services"
   ],
   "vibeCodedEvidence": "unverified",
   "vibeCodedEvidenceUrl": null,
-  "lastVerified": "2026-09-17",
-  "notes": "Second-priority new application. Extend Open-VidIQ rather than starting from an unrelated codebase."
+  "lastVerified": "2026-09-17"
 }
