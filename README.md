@@ -17,6 +17,8 @@ This list is intentionally broader than generative AI. Some projects use AI; oth
 - Upcoming build ideas selected from popular workflows in the source directory.
 - A lightweight JSON catalog that can be consumed by other tools.
 
+Browse the [Open-Source Alternatives directory](open-source/alternatives/README.md) for the common index and one-by-one project pages.
+
 ## Featured projects
 
 | Project | Category | What it does | Comparable workflows |
