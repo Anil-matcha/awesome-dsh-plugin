@@ -6,6 +6,13 @@ A curated collection of open-source, AI-assisted SaaS applications and buildable
 
 This list is intentionally broader than generative AI. Some projects use AI; others focus on the workflow around it: research, publishing, analytics, collaboration, and distribution.
 
+## Related Projects
+
+- [Muapi open-source alternatives](https://muapi.ai/open-source/alternative) — app-first comparison hub for the workflows represented here, with published deep dives and honest scope notes.
+- [Open-source alternative to Midjourney](https://muapi.ai/open-source/alternative/midjourney) — a focused image-studio comparison featuring Open Generative AI.
+- [Open-source alternative to Krea](https://muapi.ai/open-source/alternative/krea) — a focused workflow-editor comparison featuring Vibe Workflow.
+- [Muapi quick start](https://muapi.ai/docs/quick-start) — connect a hosted generation API when a catalog project needs a managed execution layer.
+
 [![Validate catalog](https://github.com/Anil-matcha/awesome-vibecoded-saas/actions/workflows/validate.yml/badge.svg)](https://github.com/Anil-matcha/awesome-vibecoded-saas/actions/workflows/validate.yml)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -29,7 +36,7 @@ Browse the [Open-Source Alternatives directory](open-source/alternatives/README.
 | [AI Clipping Generator](https://github.com/Anil-matcha/ai-clipping-generator) | Video & Media | Turns long-form media into short-form clips | OpusClip, Revid AI, Descript |
 | [AI YouTube Shorts Generator](https://github.com/Anil-matcha/ai-youtube-shorts-generator) | Video & Media | Creates short-form videos from long-form content | OpusClip, Revid AI |
 | [AI Faceless Video Generator](https://github.com/Anil-matcha/ai-faceless-video-generator) | Video & Media | Creates narrated faceless videos from a brief | Creatify, HeyGen, Synthesia |
-| [AI B-roll](https://github.com/Anil-matcha/ai-broll) | Video Assets | Finds or generates visual ideas for individual script lines | InVideo, Pictory |
+| [AI B-roll](https://github.com/Anil-matcha/AI-B-roll) | Video Assets | Finds or generates visual ideas for individual script lines | InVideo, Pictory |
 | [Open-VidIQ](https://github.com/Anil-matcha/open-vidiq) | Creator & YouTube | Starting point for creator research and optimization | 1of10, Wholana, Vernigo |
 
 ## Upcoming: popular workflows
