@@ -296,6 +296,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [PerryLink/dsh-team-rooms](https://github.com/PerryLink/dsh-team-rooms) — Persistent, cross-session multi-agent team rooms for DeepSeek Harness: members, a message bus, a shared task board, and a shared timeline that survive restarts.
 - [weibaohui/dsh-tasks](https://github.com/weibaohui/dsh-tasks) — Scheduled tasks: run a prompt on cron schedules, each run opens a new agent session to do the work, with workspace binding, manual run, session auto-naming, and a fullscreen task management page.
 - [weibaohui/dsh-process](https://github.com/weibaohui/dsh-process) — Process management: brings ntd-style processes (multi-stage, multi-step agent workflow templates) into the dsh web UI — browse, edit, validate, import/export and AI-generate processes; the built-in library is read-only while the personal library is writable with live file sync, and agents read the library through process_* tools and advance work stage by stage.
+- [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) — Backup, restore, export, import, migrate and sync a DSH configuration (settings, plugins, MCP servers, skills, agent presets, workspaces) with a dry-run preview, per-item conflict decisions, cross-machine path remapping, an optional encrypted credential payload and a built-in configuration marketplace.
 
 ### Notifications & Integrations
 
