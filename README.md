@@ -119,6 +119,8 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [kirigayakazima/dsh-usage-vendor-stats](https://github.com/kirigayakazima/dsh-usage-vendor-stats) — Per-provider token/cache/output KPI dashboard: 53-week heatmap, hourly trend, model drilldown, CSV export, TTFT/speed/error-rate health cards.
 - [Phant0Meow/dsh-meow-cachebilling](https://github.com/Phant0Meow/dsh-meow-cachebilling) — Per-round cache billing in the composer context meter's popover: what the current call spends on cache hits, misses, and output in CNY, with automatic official peak/off-peak and per-model pricing; hidden on non-official DeepSeek routes.
 - [teethyachi/dsh-usage-mini](https://github.com/teethyachi/dsh-usage-mini) — Claude/Codex subscription usage windows with reset countdowns, next to today's DeepSeek API spend and balance, in one draggable floating window (用量小窗) that docks to a corner. Display-only companion to dsh-cost-meter and dsh-plugin-subscriptions; UI follows the DSH language setting.
+- [weibaohui/dsh-dashboard](https://github.com/weibaohui/dsh-dashboard) — Usage dashboard: offline-scans session logs to chart daily/weekly/monthly tokens, estimated costs, model/tool/skill/command leaderboards, output speed, working hours and quality metrics; gridstack+ECharts cards are drag-and-drop composable, with custom formulas and AI arrangement (prompt round-trip import).
+
 
 ### Themes & Appearance
 
