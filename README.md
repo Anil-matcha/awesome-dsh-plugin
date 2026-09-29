@@ -119,6 +119,8 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [kirigayakazima/dsh-usage-vendor-stats](https://github.com/kirigayakazima/dsh-usage-vendor-stats) — Per-provider token/cache/output KPI dashboard: 53-week heatmap, hourly trend, model drilldown, CSV export, TTFT/speed/error-rate health cards.
 - [Phant0Meow/dsh-meow-cachebilling](https://github.com/Phant0Meow/dsh-meow-cachebilling) — Per-round cache billing in the composer context meter's popover: what the current call spends on cache hits, misses, and output in CNY, with automatic official peak/off-peak and per-model pricing; hidden on non-official DeepSeek routes.
 - [teethyachi/dsh-usage-mini](https://github.com/teethyachi/dsh-usage-mini) — Claude/Codex subscription usage windows with reset countdowns, next to today's DeepSeek API spend and balance, in one draggable floating window (用量小窗) that docks to a corner. Display-only companion to dsh-cost-meter and dsh-plugin-subscriptions; UI follows the DSH language setting.
+- [weibaohui/dsh-kite](https://github.com/weibaohui/dsh-kite) — Kite-flying engine: while the agent codes, an animated kite drifts and sways in the wind on screen, tethered to the bottom edge of the window — the busier the agent, the denser the events and the higher it flies; ships a Weifang-style framework card deck (sand-swallow, goldfish, butterfly, bagua, dragon-head and more, hard-wing / soft-wing / flat / dimensional frames), with shape x pattern x colors all swappable data configs, and supports pasting user images onto the kite face with real-time affine transforms as the kite banks.
+
 
 ### Themes & Appearance
 
