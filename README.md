@@ -169,6 +169,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [czm15053/dsh-peer-link](https://github.com/czm15053/dsh-peer-link) — Lets dsh and Claude Code sessions message each other directly.
 - [dongsheng123132/task-passport](https://github.com/dongsheng123132/task-passport) — Carries durable task state across DeepSeek Harness, WorkBuddy, Claude Code, and Codex.
 - [dream12347/dsh-session-manager](https://github.com/dream12347/dsh-session-manager) — Session trash/restore/purge, recent-activity stats, workspace grouping, and compaction threshold control.
+- [dsh-sieve](https://github.com/Sev7eEn7/sieve) — Filters tool outputs, prunes stale context and discloses skills on demand for DSH 0.2.1-alpha.1.
 - [fredalxin/dsh-solo-thinking](https://github.com/fredalxin/dsh-solo-thinking) — Visual branch brainstorming: isolated session per direction with automated parent/sibling/checkpoint handoffs and a full tree tab.
 - [limbo947/dsh-recall-plugin](https://github.com/limbo947/dsh-recall-plugin) — Rolls conversation and workspace files back to before any user message, via shadow git snapshots with a diff-preview confirmation.
 - [nickkkkkk123123/dsh-resume-on-restart](https://github.com/nickkkkkk123123/dsh-resume-on-restart) — Auto-wakes the main agent after a DSH service restart: compares last-run timestamps, posts a recovery notice with humanized downtime, and delivers it so interrupted work picks itself back up. Runs on plain cordis ctx, packaged-DSH-Desktop ready.
