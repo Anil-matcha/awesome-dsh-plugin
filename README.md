@@ -460,6 +460,8 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [nickkkkkk123123/dsh-whale-girl](https://github.com/nickkkkkk123123/dsh-whale-girl) — Interactive whale-girl desktop pet for DeepSeek Harness: live balance/usage/context occupancy, middle-button slingshot toss, easter-egg bubbles, eco mode. 346KB package, zero extra processes.
 - [Sutera-Diffusus/dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume) - Whale-girl desktop pet for the DSH Web UI: pat-to-raise growth, live work-state poses, 494 dialogue lines, 30 achievements and a built-in settings panel - all local, zero telemetry.
 - [ywleeo/dsh-md-preview](https://github.com/ywleeo/dsh-md-preview) — Sidebar workspace-row trigger opens a Markdown preview panel: nested collapsible directory tree, inline rendering, theme-aware, open in the system default app.
+- [weibaohui/dsh-ambient](https://github.com/weibaohui/dsh-ambient) — White noise player: lays a layer of background sound (rain, streams, campfire, café…) while AI codes, helping you enter flow, stay focused and think efficiently, so you write code fast and well. Supports multiple playback modes (sequential / shuffle / single-loop / intermittent) and AI automatic background music download.
+
 - [dsh-persona-switcher](https://github.com/destr-z/dsh-persona-switcher) — Lightweight per-session persona switcher: template library in Settings, pick from the composer toolbar, applies instantly; single plugin, zero runtime dependencies, no core changes.
 ## Writing Your Own Plugin
 
