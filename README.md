@@ -407,6 +407,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 
 ### Development & Runtime
 
+- [dsh-plugin-android-preview](https://github.com/skyjjgw/dsh-plugin-android-preview) — Real Android emulator preview in a native sidebar, with configurable APK/package/activity and optional Flutter Dart-save hot reload; requires an existing APK, emulator, Android SDK and scrcpy 3.3.3 (Flutter SDK for hot reload); Windows/macOS/Linux launch support, Windows emulator verified; Node 22.19+, DSH 0.2.1-rc.2+.
 - [MajidAsghariTabrizi/universal-engineering-agent](https://github.com/MajidAsghariTabrizi/universal-engineering-agent) — Profile-agnostic, runnable, MIT reference implementation of the UEA 9-stage operating-kernel contract. Inspect → plan → implement → verify → classify → recover → test → generalize. Zero runtime deps. ([DSH #5513](https://github.com/deepseek-ai/deepseek-harness/discussions/5513))
 - [863683348/dsh-plugin-verify](https://github.com/863683348/dsh-plugin-verify) — Evidence-based claim checking against workspace files with line citations.
 - [863683348/dsh-trend-radar](https://github.com/863683348/dsh-trend-radar) — Ecosystem trend dashboard: new plugins, star gainers, category heat, keyword radar.
