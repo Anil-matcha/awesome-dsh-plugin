@@ -239,6 +239,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [maxmilian/dsh-grafana-query](https://github.com/maxmilian/dsh-grafana-query) — Read-only Grafana tools over the data source proxy: instance health, data sources, instant and range PromQL queries, current alert state, and provisioned alert rules.
 - [maxmilian/dsh-sentry](https://github.com/maxmilian/dsh-sentry) — Read-only Sentry tools: project listing, issue search and detail, and the latest or a specific event with a trimmed stacktrace that drops local variables, request data, and secret-looking tags.
 - [maxmilian/dsh-odoo](https://github.com/maxmilian/dsh-odoo) — Read-only Odoo tools over JSON-RPC: server info, model field introspection, and a restricted search_read on an allow list of models; a draft-create tool is registered only when allowWrite is enabled.
+- [hxlog/dsh-mcp-tools](https://github.com/hxlog/dsh-mcp-tools) — MCP server and tool manager for DSH settings: streamable-http/stdio servers, Postman-style header rows, connectivity tests, and per-tool switches so disabled tools never reach the model.
 
 ### Vision & Multimodal
 
