@@ -192,6 +192,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory) — Multi-agent spatiotemporal memory graph with a self-evolving knowledge flywheel and auditable trust guardrails.
 - [GIT121995/dsh-memory-gate](https://github.com/GIT121995/dsh-memory-gate) — Bounded local memory with explainable use/verify/ignore decisions, a full audit trail, and a tight per-call injection cap.
 - [highland0971/dsh-native-memory](https://github.com/highland0971/dsh-native-memory) — Native per-workspace memory with approval-gated writes and deterministic recall — no external server.
+- [OakcoderX/solopup-memory](https://github.com/OakcoderX/solopup-memory) — Source-linked text memory for DSH with project scopes and revision history (public beta).
 - [PerryLink/dsh-click](https://github.com/PerryLink/dsh-click) — Cross-platform native desktop control (Windows first): screen_shot/screen_read, click/type/scroll/key, app_list/app_launch — approval-gated, never stealing foreground focus.
 - [PerryLink/dsh-library](https://github.com/PerryLink/dsh-library) — Local document knowledge base: hybrid semantic+keyword search with diversity re-ranking, citation-aware injection, and a SQLite-backed index with zero model downloads.
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) — Bounded, layered, approval-gated cross-session memory with a typed seam, SQLite provider, and frozen-snapshot injection.
