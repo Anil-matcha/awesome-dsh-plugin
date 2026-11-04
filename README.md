@@ -337,6 +337,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [weibaohui/dsh-sync](https://github.com/weibaohui/dsh-sync) — Multi-machine sync: keeps multiple dsh replicas consistent through one private GitCode repository — skills, sessions, settings and plugin manifests each with an independent switch; changes go through branch, PR and merge, remote-only additions are pulled back before every push so nothing is deleted, and an AI smart-align step semantically merges files both sides changed (plus one-click conflict resolution); private repos enforced, pull never overwrites local edits.
 - [maxmilian/dsh-forge](https://github.com/maxmilian/dsh-forge) — Read-only Gitea and Forgejo tools for self-hosted instances: repositories, issue and pull request search, PR diffs and changed files, and Actions runs, jobs and job logs.
 - [weibaohui/dsh-git-server](https://github.com/weibaohui/dsh-git-server) — Git server: embeds ts-gogs (a TypeScript reimplementation of Gogs) and serves a full Git service on its own port — HTTP clone/push, web UI, issues/PRs/wiki — reusing user-management credentials, start/stop from the settings page.
+- [AgentCompare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) — Compare two running Vite implementations in DSH conversations, choose blind, and review adoption against current project edits.
 
 ### Security & Governance
 
