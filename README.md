@@ -310,6 +310,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 - [BiBoyang/dsh-im-bridge](https://github.com/BiBoyang/dsh-im-bridge) — Two-way WeChat bridge with in-chat approve/reject and message injection.
 - [Bing-Bryan/dsh-unread-dot](https://github.com/Bing-Bryan/dsh-unread-dot) — macOS Dock badge and chime built on the Badging API.
 - [cdxiaodong/dsh-island](https://github.com/cdxiaodong/dsh-island) — Bridges sessions, tool calls, and approvals to the macOS notch panel.
+- [ITC-cloud-soft/biz-ai](https://github.com/ITC-cloud-soft/biz-ai) — DSH plugins that connect an agent to a business system (Bridge v1 + manifest): per-employee reminders, approval cards and proposals in Slack, LINE, Teams, WeCom or Feishu; people approve. Tested with DSH 0.2.2-rc.1. Apache-2.0.
 - [Pasumao/dsh-plugin-notify](https://github.com/Pasumao/dsh-plugin-notify) — Windows native toasts plus a system-tray whale icon when the agent stops (done/error/waiting/closed), zero dependencies.
 - [PGZXB/dsh-feishu](https://github.com/PGZXB/dsh-feishu) — Feishu (Lark) UI for DeepSeek Harness: panel-driven control console, in-card approvals and questions, live streaming cards, one-QR setup.
 - [shangjian2023/dsh-rss-daily](https://github.com/shangjian2023/dsh-rss-daily) — Daily news digest: fetches 46 curated RSS sources on schedule, LLM-edits them into a briefing with the model already configured in dsh (rule-based fallback), and delivers it to your IM via webhook (WeCom/Telegram/ServerChan/PushDeer/Bark/Gotify), with catch-up for missed runs and a Web panel.
