@@ -183,6 +183,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 ### Memory
 
 - [863683348/dsh-plugin-focus](https://github.com/863683348/dsh-plugin-focus) — Durable focus board pinning objective, constraints, and decisions across compaction and sessions.
+- [a4223091/dsh-memory-book](https://github.com/a4223091/dsh-memory-book) — Per-project local memory plugin for DSH (DeepSeek Harness): global + primary + transient libraries, seven engine-managed project documents with versioning, and automatic maintenance rounds after substantive changes.
 - [aerince/dsh-active-context-pruning](https://github.com/aerince/dsh-active-context-pruning) — Model-authored context pruning through the official compaction API.
 - [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) — Cache-friendly three-layer memory with per-turn consolidation and inheritance from other AI tools.
 - [akslcw/dsh-negative-ledger](https://github.com/akslcw/dsh-negative-ledger) — Persists disproven paths and blocks repeat attempts until evidence changes.
