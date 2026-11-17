@@ -63,6 +63,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 ## Plugin Categories
 
 ### UI Enhancements
+- [dlgrv/dsh-remove-deepseek-logo](https://github.com/dlgrv/dsh-remove-deepseek-logo) — Removes the DeepSeek logo, brand name, version string, and the conversation hero fish from the sidebar.
 - [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) — Typewriter-animated rainbow status phrases, live status pill, tab titles, schedule presets — and every phrase floats by as video-site-style danmaku behind the UI.
 - [0xsline/dsh-spotlight](https://github.com/0xsline/dsh-spotlight) — Keyboard-first command palette for the DSH Web UI.
 - [1123762794/dsh-web-restart](https://github.com/1123762794/dsh-web-restart) — Sidebar footer button that restarts the dsh web process and persists across the restart it triggers.
