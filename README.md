@@ -469,6 +469,7 @@ Tag your own plugin repo with the [`dsh-plugin`](https://github.com/topics/dsh-p
 4. Read [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)'s architecture docs and AGENTS.md before building anything that touches the core agent loop.
 
 ## Related Projects
+- [wwewtech/numes-deepseek-harness](https://github.com/wwewtech/numes-deepseek-harness) — Free Numes models in DeepSeek Harness: zero-dependency local proxy with a hard `$0` route (`:free` + `max_price` guards), never-give-up retries (5s to 5m), free-model auto-discovery, and paid-model protection.
 
 - [awesome-openclaw](https://github.com/Anil-matcha/awesome-openclaw) — curated resources for OpenClaw, the self-hosted messaging-first agent with the largest community skill catalog.
 - [awesome-hermes-agent](https://github.com/Anil-matcha/awesome-hermes-agent) — curated resources for Hermes Agent (Nous Research), the self-evolving skill-generating agent.
